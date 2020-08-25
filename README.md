@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, I'm Jess   <img src="https://pic.chinesefontdesign.com/uploads/2018/02/chinesefontdesign.com-2018-02-17_05-40-13_240701.gif" width="50px">
 
 <!--
 **jessneri/jessneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :blush: I'm a Designer and I'm currently in process to be a Fullstack dev.  
+- <i>:round_pushpin: Salvador, BA/Brazil</i>
+- ⚡ Fun fact: I love internet in general, cats and I'm a Blizzard girl.
+<img src="https://media.giphy.com/media/Xb7YboVOJOhcOmrnwI/giphy.gif" width="250px">
+ 
+ 
+ 
