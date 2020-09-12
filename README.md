@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - :blush: I'm a Designer and I'm currently in process to be a Fullstack dev.  
 - <i>:round_pushpin: Salvador, BA/Brazil</i>
-- ⚡ Fun fact: I love internet in general, cats and I'm a Blizzard girl.
+
 <img src="https://media.giphy.com/media/Xb7YboVOJOhcOmrnwI/giphy.gif" width="250px">
  
  
