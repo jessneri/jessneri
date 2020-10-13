@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :blush: I'm a Designer and I'm currently in process to be a Fullstack dev.  
+- :blush: I'm a Designer and I'm currently in process to be a dev.  
 - <i>:round_pushpin: Salvador, BA/Brazil</i>
 
 <img src="https://media.giphy.com/media/Xb7YboVOJOhcOmrnwI/giphy.gif" width="250px">
