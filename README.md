@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :blush: I'm a Designer and I'm currently in process to be a dev.  
-- <i>:round_pushpin: Salvador, BA/Brazil</i>
+</div>
+
+:blush: I'm a Designer and I'm currently in process to be a dev.  
+<i>:round_pushpin: Salvador, BA/Brazil</i>
 
 <img src="https://media.giphy.com/media/Xb7YboVOJOhcOmrnwI/giphy.gif" width="250px">
  
  
+<a href="https://www.linkedin.com/in/jessicaneri/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
  
