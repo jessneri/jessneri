@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/Xb7YboVOJOhcOmrnwI/giphy.gif" width="250px">
 
-[![Jess's GitHub stats](https://github-readme-stats.vercel.app/api?username=jessneri)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
