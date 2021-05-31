@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicaneri/)](https://www.linkedin.com/in/jessicaneri/)
 
 ### About me
-:blush: I'm a Designer and Front-end Developer. Currently, I'm a dev at [Cubos Tecnologia](https://cubos.io/).
+I'm a Designer and Front-end Developer. Currently, I'm a dev at [Cubos Tecnologia](https://cubos.io/).
 
 <i>:round_pushpin: Salvador, BA/Brazil</i>
 
