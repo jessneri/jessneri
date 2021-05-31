@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### About me
 :blush: I'm a Designer and Front-end Developer. Currently, I'm a dev at [Cubos Tecnologia](https://cubos.io/).
+
 <i>:round_pushpin: Salvador, BA/Brazil</i>
 
 ⚡ Fun fact: I like games and horror movies.
